@@ -1,13 +1,9 @@
 
-# Assignment Two  
+# Solo Project Assignment #4  
 
 **COSC 310 Project Group #8**  
 
 Liam 
-Michael
-Yidu
-Riley
-Tim
 
 # Project Description  
 
