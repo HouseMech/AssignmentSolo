@@ -130,8 +130,6 @@ In order to help the Gym Help Desk agent reach a larger target audience, I imple
 Due to some time constraints from other projects, quizzes and assignments, I did not have sufficient time to implement a second API.
 
 # Examples
-<img width="543" alt="Screen Shot 2021-04-16 at 11 48 55 AM" src="https://user-images.githubusercontent.com/9921330/115070511-e135e780-9ea9-11eb-96b2-99a667cdd44b.png">
-Translate technology is finicky so a particular way of entering a phrase may not work.
+<img width="543" alt="Screen Shot 2021-04-16 at 11 48 55 AM" src="https://user-images.githubusercontent.com/9921330/115070511-e135e780-9ea9-11eb-96b2-99a667cdd44b.png">Translate technology is finicky so a particular way of entering a phrase may not work.
 
-<img width="548" alt="Screen Shot 2021-04-16 at 11 14 45 AM" src="https://user-images.githubusercontent.com/9921330/115070521-e430d800-9ea9-11eb-8896-5b375cf077d3.png">
-Asking about memberships in Russian
+<img width="548" alt="Screen Shot 2021-04-16 at 11 14 45 AM" src="https://user-images.githubusercontent.com/9921330/115070521-e430d800-9ea9-11eb-8896-5b375cf077d3.png">Asking about memberships in Russian
