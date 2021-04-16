@@ -29,7 +29,7 @@ public class OutputTerminal extends JTextArea{
 		String translated = "";
 		if(s.length() != 0) {
 			try {
-				translated = TranslateToEnglish.translate(s).toLowerCase();
+				translated = TranslateToEnglish.translate(s);
 			} catch (IOException | GeneralSecurityException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
