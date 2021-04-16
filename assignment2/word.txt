@@ -35,8 +35,11 @@ list
 .We carry an extensive selection of dumbbells and most modern weight training machines. We have a cardio section with twenty different treadmills. If you would like to know more, check out our website.
 new equip 
 equip new 
+new apparatu
+apparatu new
 new
 .Our cardio section was just updated with new treadmills!
+apparatu
 equip
 .Our gym includes world class equipment personally used by Sylvester Stallone.
 treadmil
@@ -45,8 +48,8 @@ dumbbel
 .Our dumbbell section carries weights from the low half pound all the way to the hundreds. We have copies of each weight so nobody has to wait for others to finish their set!
 machin
 .We carry most of the modern weight training machines. You can find typical ones like the leg press, shoulder press and all varieties of cable machines.
-exercises
-exercise
+exercis
+movement
 rout
 program
 .Are you interested in some of our recommended beginner routines? Type "[Body Part] routine" and I will tell you some recommendations!
@@ -55,7 +58,9 @@ member
 membership
 .You can register for membership on our website!
 cost
+fee
 membership cost
+fee membership
 cost membership
 .Our basic membership plan is $10.99 monthly. You can see some of our advanced plans (and discounts!) on our website.
 discount
