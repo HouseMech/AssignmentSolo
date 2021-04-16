@@ -25,6 +25,10 @@ This folder will contain all documentations. All documentation requirements for 
 7. Automated Unit Testing
 # Level 0 Data Flow Diagram #
 
+(Solo Project)
+1. API Explanation
+2. Examples
+
 ![alt text](https://github.com/COSC310-Project-Group-8/AssignmentTwo/blob/main/Documentations/Level%200%20Data%20Flow%20Diagram.png?raw=true)
 
 This dataflow diagram shows a generalized overview of how information is passed through the chatbot. The diagram generalizes classes and their functions into processes which are labeled with verbs, while data and their sources are labelled with nouns. 
@@ -118,3 +122,10 @@ We successfully configured our project for continuous integration.
 - Every commit that was made in testing branch automatically triggers the build/testing
 - Travis CI uses [.travis.yml](../.travis.yml) file to recognize the configuration
 - Some of the jobs were not successful since implementing JUnit in Maven is a bit more complex than pure JUnit, but Travis CI definitely verifies and builds our project
+
+# API Explanations (Solo Project)
+
+In order to help the Gym Help Desk agent reach a larger target audience, I implemented a google translate feature to better help users communicate to the bot. If by chance your english is a little lacking, you can converse with the bot in your native tongue and the translate feature will allow it to understand you.
+
+Due to some time constraints from other projects, quizzes and assignments, I did not have sufficient time to implement a second API.
+
